@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hey, I'm Tuan 👋
+
+#### Here are a few things about me:
+
+- Rencent gruaduate at Lighthouse Labs - Web development
+- Background in Finance
+- Passionate about creating cool stuff - Web application with awesome UI/UX!
+
+#### Check out some of my projects below 👇
+
+
+
+
+
 
 <!--
 **TANG281/TANG281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
